@@ -49,16 +49,14 @@ img {
 }
 
 form {
-  height: 125px;
+  height: 100px;
   display: flex;
   justify-content: space-between;
-  gap: 17px;
   flex-wrap: wrap;
 }
 input {
   width: 230px;
   height: 35px;
-  margin-bottom: 20px;
 }
 
 button {
