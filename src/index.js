@@ -1,11 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import MemeApp from "./MemeApp.js";
+import App from "./App.js";
 
 ReactDOM.render(
   <React.StrictMode>
-    <MemeApp />
+    <App />
   </React.StrictMode>,
   document.getElementById("root")
 );
